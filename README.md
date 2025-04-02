@@ -9,5 +9,7 @@ This project is designed to demonstrate my capabilities in...
 5. application of machine learning algorithms,
    
    a. specifically decision trees,
+   
    b. random forest models,
+   
    c. and hyperparameter tuning
