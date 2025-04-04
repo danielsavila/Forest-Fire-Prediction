@@ -8,10 +8,10 @@ This project is designed to demonstrate my capabilities in...
 4. anomoly detection
 5. application of machine learning algorithms, specifically...
    
-   a. decision trees,
+> decision trees,
    
-   b. random forest models,
+> random forest models,
    
-   c. and hyperparameter tuning
+> and hyperparameter tuning
 
 All code is found in the forest_fire.ipynb file located within the repository.
